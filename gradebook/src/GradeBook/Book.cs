@@ -9,7 +9,6 @@ namespace GradeBook
         }
         public void AddGrade(double grade) 
         {
-            if
             grades.Add(grade);
         }
 
